@@ -1,0 +1,40 @@
+body{
+	background-color:  #4E2A84;
+	color: white;
+}
+
+
+#profilePic{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  border-radius: 200px;
+}
+
+#contactInfo {
+	position: absolute;
+	top: 50px;
+}
+
+a{
+	color: white;
+}
+#name{
+	text-align: center;
+}
+
+#contactInfoHeader{
+	position: absolute;
+	top: 10px;
+}
+.logo{
+	width: 100px;
+	height: auto;
+
+}
+
+.site{
+	width: 400px;
+	height: 300px;
+}
