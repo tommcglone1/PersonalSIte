@@ -31,6 +31,9 @@ a{
 .logo{
 	width: 100px;
 	height: auto;
+	background-color: white;
+	 border-radius: 200px;
+
 
 }
 
