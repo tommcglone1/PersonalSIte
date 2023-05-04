@@ -40,6 +40,11 @@ a{
 	height: auto;
 }
 
+.scroll{
+	border-radius: 25px 25px 25px 25px;
+	
+}
+
 .site{
 	width: 400px;
 	height: 300px;
