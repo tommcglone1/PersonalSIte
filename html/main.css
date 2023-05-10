@@ -4,6 +4,7 @@ body{
 }
 
 
+
 #profilePic{
 	display: block;
   margin-left: auto;
@@ -19,6 +20,11 @@ body{
 
 a{
 	color: white;
+}
+
+a:hover {
+ 
+  color: gold;
 }
 #name{
 	text-align: center;
